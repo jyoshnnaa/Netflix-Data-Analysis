@@ -22,4 +22,4 @@ This project performs Exploratory Data Analysis (EDA) on Netflix data using Pyth
 - Vote Average categorization using percentiles
 
 ## 🔗 Connect
-Feel free to connect with me on [LinkedIn](linkedin.com/in/maraboyina-jyoshna)
+Feel free to connect with me on LinkedIn - linkedin.com/in/maraboyina-jyoshna
